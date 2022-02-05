@@ -11,7 +11,6 @@ public class Solution {
             hash.put(id_list[i],i);
             reported.put(id_list[i], new ArrayList<String>());
         }
-
         for(int i=0; i<report.length; i++){
             String[] str = report[i].split(" ");
             // str[0] 신고한 사람
@@ -20,7 +19,6 @@ public class Solution {
                 reported.get(str[1]).add(str[0]);
             }
         }
-
         int[] answer = new int[id_list.length];
         for(int i=0; i<id_list.length; i++){
             if(reported.get(id_list[i]).size()>=k){
