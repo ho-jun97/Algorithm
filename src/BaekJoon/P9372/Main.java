@@ -9,7 +9,7 @@ import java.util.Queue;
 import java.util.StringTokenizer;
 
 /**
- * https://github.com/kyu9610/Algorithm
+ * https://www.acmicpc.net/problem/9372
  */
 public class Main {
     static int T;
