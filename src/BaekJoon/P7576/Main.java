@@ -9,7 +9,7 @@ import java.util.StringTokenizer;
 
 /**
  * https://www.acmicpc.net/problem/7576
- * [7576번 토마토]-Gold5
+ * [7576번: 토마토]-Gold5
  */
 
 public class Main {
