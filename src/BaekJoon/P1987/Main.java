@@ -33,7 +33,6 @@ public class Main {
             }
         }
         arr = new ArrayList<>();
-        arr.add(map[1][1]);
         dfs(1,1);
         System.out.println(ans);
     }
@@ -52,7 +51,5 @@ public class Main {
             }
             arr.remove(arr.size() - 1);
         }
-
-
     }
 }
