@@ -26,7 +26,6 @@ public class Main {
     }
 
     public static void Hanoi(int N, int start, int mid, int to) {
-        // 이동할 원반의 수가 1개라면?
         if (N == 1) {
             sb.append(start + " " + to + "\n");
             return;
