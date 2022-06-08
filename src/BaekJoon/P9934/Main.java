@@ -10,7 +10,7 @@ import java.util.Queue;
 
 /**
  * https://www.acmicpc.net/problem/9934
- * [9934번: 완전 이진 트리]-Sliver1
+ * [9934번: 완전 이진 트리]-Silver1
  */
 
 public class Main {
