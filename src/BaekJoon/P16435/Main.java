@@ -8,7 +8,7 @@ import java.util.StringTokenizer;
 
 /**
  * https://www.acmicpc.net/problem/16435
- * [16435번: 스네이크버드]-Sliver5
+ * [16435번: 스네이크버드]-Silver5
  */
 
 public class Main {
