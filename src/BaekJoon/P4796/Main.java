@@ -7,7 +7,7 @@ import java.util.StringTokenizer;
 
 /**
  * https://www.acmicpc.net/problem/4796
- * [4796번: 캠핑]-Sliver5
+ * [4796번: 캠핑]-Silver5
  */
 
 public class Main {
