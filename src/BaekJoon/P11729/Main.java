@@ -6,7 +6,7 @@ import java.io.InputStreamReader;
 
 /**
  * https://www.acmicpc.net/problem/11729
- * [11729번: 하노이 탑 이동 순서]-Sliver1
+ * [11729번: 하노이 탑 이동 순서]-Silver1
  */
 
 public class Main {
