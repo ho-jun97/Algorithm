@@ -8,7 +8,7 @@ import java.util.StringTokenizer;
 
 /**
  * https://www.acmicpc.net/problem/1920
- * [1920번: 수 찾기]-Sliver4
+ * [1920번: 수 찾기]-Silver4
  */
 
 public class Main {
