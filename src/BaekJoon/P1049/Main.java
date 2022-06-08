@@ -8,7 +8,7 @@ import java.util.StringTokenizer;
 
 /**
  * https://www.acmicpc.net/problem/1049
- * [1049번: 기타줄]-Sliver4
+ * [1049번: 기타줄]-Silver4
  */
 
 public class Main {
