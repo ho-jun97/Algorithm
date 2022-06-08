@@ -7,7 +7,7 @@ import java.util.StringTokenizer;
 
 /**
  * https://www.acmicpc.net/problem/19939
- * [19939번: 박 터뜨리기]-Sliver5
+ * [19939번: 박 터뜨리기]-Silver5
  */
 
 public class Main {
