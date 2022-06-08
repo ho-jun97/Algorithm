@@ -7,7 +7,7 @@ import java.util.StringTokenizer;
 
 /**
  * https://www.acmicpc.net/problem/1244
- * [1244번: 스위치 켜고 끄기]-Sliver3
+ * [1244번: 스위치 켜고 끄기]-Silver3
  */
 
 public class Main {
