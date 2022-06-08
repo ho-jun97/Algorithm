@@ -5,12 +5,11 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.ArrayList;
 import java.util.Collections;
-import java.util.Comparator;
 import java.util.HashMap;
 
 /**
  * https://www.acmicpc.net/problem/1302
- * [1302번: 베스트셀러]-Sliver4
+ * [1302번: 베스트셀러]-Silver4
  */
 
 public class Main {
