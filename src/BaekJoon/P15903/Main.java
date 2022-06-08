@@ -8,7 +8,7 @@ import java.util.StringTokenizer;
 
 /**
  * https://www.acmicpc.net/problem/15903
- * [15903번: 카드 합체 놀이]-Sliver2
+ * [15903번: 카드 합체 놀이]-Silver2
  */
 
 public class Main {
