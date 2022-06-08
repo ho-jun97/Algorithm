@@ -6,7 +6,7 @@ import java.io.InputStreamReader;
 
 /**
  * https://www.acmicpc.net/problem/2156
- * [2156번: 포도주 시식]-Sliver1
+ * [2156번: 포도주 시식]-Silver1
  */
 
 public class Main {
