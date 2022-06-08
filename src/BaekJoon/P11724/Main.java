@@ -10,7 +10,7 @@ import java.util.StringTokenizer;
 
 /**
  * https://www.acmicpc.net/problem/11724
- * [11724번: 연결 요소의 개수]-Sliver2
+ * [11724번: 연결 요소의 개수]-Silver2
  */
 
 public class Main {
