@@ -8,7 +8,7 @@ import java.util.StringTokenizer;
 
 /**
  * https://www.acmicpc.net/problem/10816
- * [10816번: 숫자 카드2]-Sliver4
+ * [10816번: 숫자 카드2]-Silver4
  */
 
 public class Main {
