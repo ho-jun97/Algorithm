@@ -8,7 +8,7 @@ import java.util.PriorityQueue;
 
 /**
  * https://www.acmicpc.net/problem/11279
- * [11279번: 최대 힙]-Sliver2
+ * [11279번: 최대 힙]-Silver2
  */
 
 public class Main {
