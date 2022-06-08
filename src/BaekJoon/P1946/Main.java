@@ -9,7 +9,7 @@ import java.util.StringTokenizer;
 
 /**
  * https://www.acmicpc.net/problem/1946
- * [1946번: 신입사원]-Sliver1
+ * [1946번: 신입사원]-Silver1
  */
 
 public class Main {
