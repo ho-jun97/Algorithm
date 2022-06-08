@@ -6,7 +6,7 @@ import java.io.InputStreamReader;
 
 /**
  * https://www.acmicpc.net/problem/1343
- * [1343번: 폴리오미노]-Sliver5
+ * [1343번: 폴리오미노]-Silver5
  */
 
 public class Main {
