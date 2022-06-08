@@ -9,7 +9,7 @@ import java.util.StringTokenizer;
 
 /**
  * https://www.acmicpc.net/problem/11651
- * [11651번: 좌표 정렬하기2]-Sliver5
+ * [11651번: 좌표 정렬하기2]-Silver5
  */
 
 public class Main {
