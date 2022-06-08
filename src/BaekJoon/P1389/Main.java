@@ -7,7 +7,7 @@ import java.util.StringTokenizer;
 
 /**
  * https://www.acmicpc.net/problem/1389
- * [1389번: 케빈 베이컨의 6단계 법칙]-Sliver1
+ * [1389번: 케빈 베이컨의 6단계 법칙]-Silver1
  */
 
 public class Main {
