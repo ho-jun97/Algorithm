@@ -8,7 +8,7 @@ import java.util.PriorityQueue;
 
 /**
  * https://www.acmicpc.net/problem/11286
- * [11286번: 절대값 힙]-Sliver1
+ * [11286번: 절대값 힙]-Silver1
  */
 
 public class Main {
