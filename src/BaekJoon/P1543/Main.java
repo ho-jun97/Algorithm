@@ -6,7 +6,7 @@ import java.io.InputStreamReader;
 
 /**
  * https://www.acmicpc.net/problem/1543
- * [1543번: 문서 검색]-Sliver4
+ * [1543번: 문서 검색]-Silver4
  */
 
 public class Main {
