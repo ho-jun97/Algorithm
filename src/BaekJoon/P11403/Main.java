@@ -7,7 +7,7 @@ import java.util.StringTokenizer;
 
 /**
  * https://www.acmicpc.net/problem/11403
- * [11403번: 경로 찾기]-Sliver1
+ * [11403번: 경로 찾기]-Silver1
  */
 
 public class Main {
