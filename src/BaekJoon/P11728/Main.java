@@ -8,7 +8,7 @@ import java.util.StringTokenizer;
 
 /**
  * https://www.acmicpc.net/problem/11728
- * [11728번: 배열 합치기]-Sliver5
+ * [11728번: 배열 합치기]-Silver5
  */
 
 public class Main {
