@@ -7,7 +7,7 @@ import java.util.ArrayList;
 
 /**
  * https://www.acmicpc.net/problem/1541
- * [1541번 : 잃어버린 괄호] - Sliver2
+ * [1541번 : 잃어버린 괄호] - Silver2
  */
 
 public class Main {
