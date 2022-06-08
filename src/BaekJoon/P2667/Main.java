@@ -10,7 +10,7 @@ import java.util.Queue;
 
 /**
  * https://www.acmicpc.net/problem/2667
- * [2667번: 단지번호붙이기]-Sliver1
+ * [2667번: 단지번호붙이기]-Silver1
  */
 
 public class Main {
