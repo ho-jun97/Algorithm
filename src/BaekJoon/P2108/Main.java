@@ -7,7 +7,7 @@ import java.util.Arrays;
 
 /**
  * https://www.acmicpc.net/problem/2108
- * [2108번: 통계학]-Sliver3
+ * [2108번: 통계학]-Silver3
  */
 
 public class Main {
