@@ -23,9 +23,8 @@ public class Main {
             if(s.equals(".")) {
                 break;
             }
-            sb.append(check(s)).append('\n');
+            System.out.println((check(s)));
         }
-        System.out.println(sb);
     }
 
     public static String check(String s) {
