@@ -7,7 +7,7 @@ import java.util.Stack;
 
 /**
  * https://www.acmicpc.net/problem/9012
- * [9012번: 괄호]-Sliver4
+ * [9012번: 괄호]-Silver4
  */
 
 public class Main {
