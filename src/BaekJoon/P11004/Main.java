@@ -4,12 +4,11 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.Arrays;
-import java.util.PriorityQueue;
 import java.util.StringTokenizer;
 
 /**
  * https://www.acmicpc.net/problem/1302
- * [11004번: K번째 수]-Sliver5
+ * [11004번: K번째 수]-Silver5
  */
 
 public class Main {
