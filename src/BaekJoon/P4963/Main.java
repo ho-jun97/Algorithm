@@ -9,7 +9,7 @@ import java.util.StringTokenizer;
 
 /**
  * https://www.acmicpc.net/problem/4963
- * [4963번: 섬의 개수]-Sliver2
+ * [4963번: 섬의 개수]-Silver2
  */
 
 public class Main {
