@@ -7,7 +7,7 @@ import java.util.StringTokenizer;
 
 /**
  * https://www.acmicpc.net/problem/1010
- * [1010번: 다리 놓기]-Sliver5
+ * [1010번: 다리 놓기]-Silver5
  */
 
 public class Main {
