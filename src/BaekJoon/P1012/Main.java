@@ -9,7 +9,7 @@ import java.util.StringTokenizer;
 
 /**
  * https://www.acmicpc.net/problem/1012
- * [1012번: 유기농 배추]-Sliver2
+ * [1012번: 유기농 배추]-Silver2
  */
 
 public class Main {
