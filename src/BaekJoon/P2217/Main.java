@@ -7,7 +7,7 @@ import java.util.Arrays;
 
 /**
  * https://www.acmicpc.net/problem/2217
- * [2217번:로프]-Sliver4
+ * [2217번:로프]-Silver4
  */
 
 public class Main {
