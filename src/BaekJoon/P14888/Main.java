@@ -7,7 +7,7 @@ import java.util.StringTokenizer;
 
 /**
  * https://www.acmicpc.net/problem/14888
- * [14888번: 연산자 끼워넣기]-Sliver1
+ * [14888번: 연산자 끼워넣기]-Silver1
  */
 
 public class Main {
