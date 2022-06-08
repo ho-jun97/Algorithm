@@ -8,7 +8,7 @@ import java.util.StringTokenizer;
 
 /**
  * https://www.acmicpc.net/problem/11497
- * [11497번: 통나무 건너뛰기]-Sliver1
+ * [11497번: 통나무 건너뛰기]-Silver1
  */
 
 public class Main {
