@@ -10,7 +10,7 @@ import java.util.StringTokenizer;
 
 /**
  * https://www.acmicpc.net/problem/10867
- * [10867번: 중복 빼고 정렬하기]-Sliver5
+ * [10867번: 중복 빼고 정렬하기]-Silver5
  */
 
 public class Main {
