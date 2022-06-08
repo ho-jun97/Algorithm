@@ -6,7 +6,7 @@ import java.io.InputStreamReader;
 
 /**
  * https://www.acmicpc.net/problem/1003
- * [1003번: 피보나치 함수]-Sliver3
+ * [1003번: 피보나치 함수]-Silver3
  */
 
 public class Main {
