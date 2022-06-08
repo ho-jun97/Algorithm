@@ -6,7 +6,7 @@ import java.io.InputStreamReader;
 
 /**
  * https://www.acmicpc.net/problem/1789
- * [1789번: 수들의 합]-Sliver5
+ * [1789번: 수들의 합]-Silver5
  */
 
 public class Main {
