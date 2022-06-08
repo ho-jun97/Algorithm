@@ -7,7 +7,7 @@ import java.util.ArrayList;
 
 /**
  * https://www.acmicpc.net/problem/1991
- * [1991번: 트리 순회]-Sliver1
+ * [1991번: 트리 순회]-Silver1
  */
 
 public class Main {
