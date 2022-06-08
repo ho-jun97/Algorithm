@@ -9,7 +9,7 @@ import java.util.StringTokenizer;
 
 /**
  * https://www.acmicpc.net/problem/2583
- * [2583번: 영역 구하기]-Sliver1
+ * [2583번: 영역 구하기]-Silver1
  */
 
 public class Main {
