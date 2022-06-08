@@ -9,7 +9,7 @@ import java.util.StringTokenizer;
 
 /**
  * https://www.acmicpc.net/problem/2468
- * [2468번: 안전 영역]-Sliver1
+ * [2468번: 안전 영역]-Silver1
  */
 
 public class Main {
