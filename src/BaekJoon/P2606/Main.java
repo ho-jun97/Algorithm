@@ -10,7 +10,7 @@ import java.util.StringTokenizer;
 
 /**
  * https://www.acmicpc.net/problem/2606
- * [2606번: 바이러스] - Sliver3
+ * [2606번: 바이러스] - Silver3
  */
 
 public class Main {
