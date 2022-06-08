@@ -7,7 +7,7 @@ import java.util.Stack;
 
 /**
  * https://www.acmicpc.net/problem/10773
- * [10773번: 제로]-Sliver4
+ * [10773번: 제로]-Silver4
  */
 
 public class Main {
