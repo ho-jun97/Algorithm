@@ -8,7 +8,7 @@ import java.util.StringTokenizer;
 
 /**
  * https://www.acmicpc.net/problem/11725
- * 트리의 부모 찾기 - Sliver2
+ * [트리의 부모 찾기 - Silver2]
  */
 
 public class Main {
