@@ -4,7 +4,7 @@ import java.io.*;
 
 /**
  * https://www.acmicpc.net/problem/10989
- * [10989번: 수 정렬하기 3]-Sliver5
+ * [10989번: 수 정렬하기 3]-Silver5
  */
 
 public class Main{
