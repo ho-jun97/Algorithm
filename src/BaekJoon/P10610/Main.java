@@ -7,7 +7,7 @@ import java.util.Arrays;
 
 /**
  * https://www.acmicpc.net/problem/10610
- * [10610번: 30]-Sliver5
+ * [10610번: 30]-Silver5
  */
 
 public class Main {
