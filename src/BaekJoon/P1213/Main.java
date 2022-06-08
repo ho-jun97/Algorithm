@@ -6,7 +6,7 @@ import java.io.InputStreamReader;
 
 /**
  * https://www.acmicpc.net/problem/1213
- * [1213번: 팰린드롬 만들기]-Sliver4
+ * [1213번: 팰린드롬 만들기]-Silver4
  */
 
 public class Main {
