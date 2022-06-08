@@ -10,7 +10,7 @@ import java.util.StringTokenizer;
 
 /**
  * https://www.acmicpc.net/problem/10825
- * [10825번: 국영수]-Sliver4
+ * [10825번: 국영수]-Silver4
  */
 
 public class Main {
