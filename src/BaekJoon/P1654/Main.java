@@ -7,7 +7,7 @@ import java.util.StringTokenizer;
 
 /**
  * https://www.acmicpc.net/problem/1654
- * [1654번: 랜선 자르기]-Sliver3
+ * [1654번: 랜선 자르기]-Silver3
  */
 
 public class Main {
