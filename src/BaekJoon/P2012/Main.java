@@ -7,7 +7,7 @@ import java.util.Arrays;
 
 /**
  * https://www.acmicpc.net/problem/2012
- * [2012번: 등수 매기기]-Sliver3
+ * [2012번: 등수 매기기]-Silver3
  */
 
 public class Main {
