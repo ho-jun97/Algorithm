@@ -6,7 +6,7 @@ import java.io.InputStreamReader;
 
 /**
  * https://www.acmicpc.net/problem/11052
- * [11052번: 카드 구매하기]-Sliver1
+ * [11052번: 카드 구매하기]-Silver1
  */
 
 public class Main{
