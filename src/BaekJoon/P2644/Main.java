@@ -8,7 +8,7 @@ import java.util.StringTokenizer;
 
 /**
  * https://www.acmicpc.net/problem/2644
- * [2644번: 촌수계산]-Sliver2
+ * [2644번: 촌수계산]-Silver2
  */
 
 public class Main {
