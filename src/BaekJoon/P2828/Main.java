@@ -7,7 +7,7 @@ import java.util.StringTokenizer;
 
 /**
  * https://www.acmicpc.net/problem/2828
- * [2828번: 사과 담기 게임]-Sliver5
+ * [2828번: 사과 담기 게임]-Silver5
  */
 
 public class Main {
