@@ -7,7 +7,7 @@ import java.util.StringTokenizer;
 
 /**
  * https://www.acmicpc.net/problem/1080
- * [1080번: 행렬]-Sliver1
+ * [1080번: 행렬]-Silver1
  */
 
 public class Main {
