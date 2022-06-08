@@ -6,7 +6,7 @@ import java.io.InputStreamReader;
 
 /**
  * https://www.acmicpc.net/problem/15904
- * [15904번: UCPC는 무엇의 약자일까?]-Sliver5
+ * [15904번: UCPC는 무엇의 약자일까?]-Silver5
  */
 
 public class Main {
