@@ -6,7 +6,7 @@ import java.io.InputStreamReader;
 
 /**
  * https://www.acmicpc.net/problem/2579
- * [2579번: 계단 오르기]-Sliver3
+ * [2579번: 계단 오르기]-Silver3
  */
 
 public class Main {
