@@ -8,7 +8,7 @@ import java.util.Collections;
 
 /**
  * https://www.acmicpc.net/problem/11508
- * [11508번: 2+1 세일]-Sliver4
+ * [11508번: 2+1 세일]-Silver4
  */
 
 public class Main {
