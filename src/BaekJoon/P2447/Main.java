@@ -6,7 +6,7 @@ import java.io.IOException;
 
 /**
  * https://www.acmicpc.net/problem/2447
- * [2447번: 별 찍기-10]-Sliver1
+ * [2447번: 별 찍기-10]-Silver1
  */
 
 public class Main {
