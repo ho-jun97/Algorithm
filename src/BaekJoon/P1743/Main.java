@@ -7,7 +7,7 @@ import java.util.StringTokenizer;
 
 /**
  * https://www.acmicpc.net/problem/1743
- * [1743번: 음식물 피하기]-Sliver1
+ * [1743번: 음식물 피하기]-Silver1
  */
 
 public class Main {
