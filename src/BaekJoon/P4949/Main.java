@@ -7,7 +7,7 @@ import java.util.Stack;
 
 /**
  * https://www.acmicpc.net/problem/4949
- * [4949번: 균형잡힌 세상]-Sliver4
+ * [4949번: 균형잡힌 세상]-Silver4
  */
 
 public class Main {
