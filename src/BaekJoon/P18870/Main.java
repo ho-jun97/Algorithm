@@ -9,7 +9,7 @@ import java.util.StringTokenizer;
 
 /**
  * https://www.acmicpc.net/problem/18870
- * [18870번: 좌표 압축]-Sliver2
+ * [18870번: 좌표 압축]-Silver2
  */
 
 public class Main {
