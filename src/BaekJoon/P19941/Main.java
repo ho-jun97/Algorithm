@@ -7,7 +7,7 @@ import java.util.StringTokenizer;
 
 /**
  * https://www.acmicpc.net/problem/19941
- * [19941번: 햄버거 분배]-Sliver3
+ * [19941번: 햄버거 분배]-Silver3
  */
 
 public class Main {
