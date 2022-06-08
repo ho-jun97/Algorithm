@@ -9,7 +9,7 @@ import java.util.StringTokenizer;
 
 /**
  * https://www.acmicpc.net/problem/9237
- * [9237번: 이장님 초대]-Sliver5
+ * [9237번: 이장님 초대]-Silver5
  */
 
 public class Main {
