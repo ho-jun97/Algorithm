@@ -7,7 +7,7 @@ import java.util.StringTokenizer;
 
 /**
  * https://www.acmicpc.net/problem/1052
- * [1052번: 물병]-Sliver1
+ * [1052번: 물병]-Silver1
  */
 
 public class Main {
