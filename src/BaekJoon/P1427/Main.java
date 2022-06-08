@@ -8,7 +8,7 @@ import java.util.PriorityQueue;
 
 /**
  * https://www.acmicpc.net/problem/1427
- * [1427번: 소트인사이드]-Sliver5
+ * [1427번: 소트인사이드]-Silver5
  */
 
 public class Main {
