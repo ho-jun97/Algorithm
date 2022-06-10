@@ -6,7 +6,6 @@ import java.io.InputStreamReader;
 import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.Queue;
-import java.util.StringTokenizer;
 
 /**
  * https://www.acmicpc.net/problem/18428
@@ -23,7 +22,6 @@ public class Main {
     static String answer="NO";
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-        StringTokenizer st;
         N = Integer.parseInt(br.readLine());
         map = new char[N+1][N+1];
         block = new char[N+1][N+1];
@@ -41,6 +39,7 @@ public class Main {
         dfs(0);
         System.out.println(answer);
     }
+    // 배열 깊은 복사
     static char[][] copy(char[][] arr){
         char[][] temp = new char[N+1][N+1];
         for(int i=1; i<=N; i++){
@@ -100,6 +99,7 @@ public class Main {
         }
         return true;
     }
+    // 노드
     static class Node{
         int x,y;
         public Node(int x, int y) {
