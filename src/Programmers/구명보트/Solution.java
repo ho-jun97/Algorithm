@@ -1,4 +1,4 @@
-package Programmers.구명조끼;
+package Programmers.구명보트;
 
 import java.util.*;
 class Solution {
