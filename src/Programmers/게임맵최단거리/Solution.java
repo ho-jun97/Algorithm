@@ -37,7 +37,8 @@ class Solution {
                 int py = node.y + my[i];
                 if(px >= 0 && py >=0 && px<n && py<m){ // map 경계 안에 있을 경우
                     if(maps[px][py]==1 && !visit[px][py]){ // 1(흰색부분) 이면서 방문하지 않은 칸
-                        visit[px][py] = true; //방문 처리리                        queue.offer(new Node(px,py,node.dis+1));
+                        visit[px][py] = true; //방문 처리리
+                        queue.offer(new Node(px,py,node.dis+1));
                     }
                 }
             }
