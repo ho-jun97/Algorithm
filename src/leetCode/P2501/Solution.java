@@ -1,4 +1,4 @@
-package leetCode;
+package leetCode.P2501;
 
 import java.util.*;
 class Solution {
