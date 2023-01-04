@@ -1,3 +1,5 @@
+package Programmers.최대값과최솟값;
+
 import java.util.*;
 class Solution {
     public String solution(String s) {
