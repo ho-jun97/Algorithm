@@ -8,7 +8,6 @@ class Solution {
         // 구혈하기 위해 바꾼 -로 문자열 나누기
         String[] str = s.split("-");
         // 길이에 따라 정렬
-        Comparator.
         Arrays.sort(str, Comparator.comparingInt(String::length));
         List<Integer> list = new ArrayList<>();
         for(String st : str){
