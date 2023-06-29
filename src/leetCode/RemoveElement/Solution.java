@@ -1,4 +1,4 @@
-package leetCode.RemoveElement
+package leetCode.RemoveElement;
 
 class Solution {
     public int removeElement(int[] nums, int val) {
